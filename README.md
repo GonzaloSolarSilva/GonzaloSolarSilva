@@ -12,7 +12,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at **Universidad Tecnológica del Perú (UTP)**
 
-- 🌱 I am currently in the race **Systems Engineering and Backend Architecture**
+- 🌱 I am currently studying Systems Engineering, specializing in Backend Architecture.**
 
 - 💻 Backend Developer specialized in **Java and Spring Boot**
 
