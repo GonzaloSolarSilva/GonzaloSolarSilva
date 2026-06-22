@@ -1,34 +1,47 @@
-# ¡Hola! Soy Gonzalo Solar Silva 👋
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### Ingeniero de Sistemas en formación | Backend Developer | IA-First Advocate
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-Apasionado por el desarrollo de software escalable, la arquitectura de sistemas y la implementación de soluciones tecnológicas que generen valor real. Mi enfoque combina la ingeniería de software tradicional (Clean Code, SOLID) con la productividad asistida por IA.
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GonzaloSolarSilva&label=Profile%20views&color=0e75b6&style=flat" alt="GonzaloSolarSilva" /> </p>
 
----
+<!-- BREVE DESCRIPCION -->
+- 📚 I am currently studying at **Universidad Tecnológica del Perú (UTP)**
 
-### 🛠 Tech Stack
-* **Lenguaje:** Java 11+, SQL
-* **Backend:** Spring Boot (Data JPA, Security, REST APIs)
-* **Testing:** JUnit 5, Mockito
-* **Herramientas:** Git, Maven, PostgreSQL, Docker (básico)
-* **IA para Productividad:** Uso frecuente de herramientas de IA para análisis, documentación y codificación.
+- 🌱 I am currently focused on **Systems Engineering and Backend Architecture**
 
----
+- 💻 Backend Developer specialized in **Java and Spring Boot**
 
-### 🚀 Proyectos Destacados
-* **[CRUD Tareas Spring Boot](https://github.com/GonzaloSolarSilva/crud-tareas-springboot):** API RESTful desarrollada bajo principios SOLID y Clean Code para la gestión eficiente de tareas.
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/gonzalosolarsilva/)**
 
----
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gonzalosolarsilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gonzalo Solar Silva" height="30" width="40" /></a>
+</p>
 
-### 📈 Mi Enfoque
-* **Calidad:** Escribo código probado y mantenible.
-* **Crecimiento:** En constante aprendizaje sobre arquitectura de microservicios y prácticas DevOps.
-* **IA-First:** Acelero el ciclo de vida del desarrollo integrando herramientas de IA en mi flujo de trabajo diario.
+<!-- LENGUAJES Y HERRAMIENTAS -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+</p>
 
----
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GonzaloSolarSilva&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloSolarSilva&layout=compact&theme=gotham&langs_count=8"/>
+</div>
 
-### 📫 ¿Cómo conectar conmigo?
-* **LinkedIn:** [Tu enlace a LinkedIn aquí]
-* **Correo:** [Tu correo electrónico aquí]
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-*Siempre estoy abierto a aprender de nuevos retos, mentorías y colaboraciones en el ámbito de la ingeniería de software.*
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
