@@ -4,13 +4,9 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<!-- VISTAS DEL PERFIL Y SNAKE GAME -->
+<!-- VISTAS DEL PERFIL -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=GonzaloSolarSilva&label=Profile%20views&color=0e75b6&style=flat" alt="GonzaloSolarSilva" /> 
-</p>
-
-<p align="center">
-  <img src="https://github.com/GonzaloSolarSilva/GonzaloSolarSilva/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 <!-- BREVE DESCRIPCION -->
@@ -37,7 +33,7 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual_studio_code" width="40" height="40"/> </a>
 </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
