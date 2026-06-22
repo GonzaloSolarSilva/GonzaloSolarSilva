@@ -4,13 +4,19 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GonzaloSolarSilva&label=Profile%20views&color=0e75b6&style=flat" alt="GonzaloSolarSilva" /> </p>
+<!-- VISTAS DEL PERFIL Y SNAKE GAME -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=GonzaloSolarSilva&label=Profile%20views&color=0e75b6&style=flat" alt="GonzaloSolarSilva" /> 
+</p>
+
+<p align="center">
+  <img src="https://github.com/GonzaloSolarSilva/GonzaloSolarSilva/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at **Universidad Tecnológica del Perú (UTP)**
 
-- 🌱 I am currently focused on **Systems Engineering and Backend Architecture**
+- 🌱 I am currently in the race **Systems Engineering and Backend Architecture**
 
 - 💻 Backend Developer specialized in **Java and Spring Boot**
 
